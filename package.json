@@ -5,7 +5,7 @@
   "main": "webpack-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --content-base public/"
+    "start": "webpack-dev-server --inline --hot --content-base public/"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/dimaShin/CBAA#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.2",
-    "webpack": "^1.13.1"
+    "angular": "^1.5.6",
+    "bootstrap": "^4.0.0-alpha.2"
   },
   "devDependencies": {
     "babel-core": "^6.9.1",
@@ -29,6 +29,7 @@
     "css-loader": "^0.23.1",
     "node-sass": "^3.7.0",
     "sass-loader": "^3.2.0",
-    "style-loader": "^0.13.1"
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
   }
 }
