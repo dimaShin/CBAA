@@ -2,8 +2,8 @@
 Component Based Angular App
 
 Requirements:
-1. nodejs. Install it in any way you like, but I recommend to use nvm https://github.com/creationix/nvm.
-2. git client https://goo.gl/JMYbqv.
+1. nodejs. Install it in any way you like, but I recommend to use nvm: https://github.com/creationix/nvm.
+2. git client. Instruction: https://goo.gl/JMYbqv.
 
 To start application:
 1. Clone this repos.
